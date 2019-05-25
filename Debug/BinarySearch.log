@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\user\source\repos\binarysearch\binarysearch\main.cpp(5): warning C4101: temp: неиспользованная локальная переменная
+  BinarySearch.vcxproj -> C:\Users\USER\source\repos\BinarySearch\Debug\BinarySearch.exe
